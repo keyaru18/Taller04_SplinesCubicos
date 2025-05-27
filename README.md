@@ -4,6 +4,9 @@ Integrantes:
 - Richard Tipantiza
 - Jairo Angulo
 
+## Link del repositorio
+https://github.com/keyaru18/Taller04_SplinesCubicos.git
+
 ## Indicaciones
 
 Compruebe gráficamente la solución de los siguientes ejercicios con los puntos dados:
@@ -21,9 +24,12 @@ Para cada uno de los ejercicios anteriores:
 2. **Realice una animación** que muestre la variación de los splines cúbicos al modificar el valor de $ B_1 $.
 
 ### EJERCICIO 01
+![alt text](image.png)
 ---
 ### EJERCICIO 02
+![alt text](image-1.png)
 ---
 ### EJERCICIO 03
 --- 
+![alt text](image-2.png)
 
