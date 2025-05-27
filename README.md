@@ -24,12 +24,12 @@ Para cada uno de los ejercicios anteriores:
 2. **Realice una animación** que muestre la variación de los splines cúbicos al modificar el valor de $ B_1 $.
 
 ### EJERCICIO 01
-![alt text](image.png)
+![alt text](images/image.png)
 ---
 ### EJERCICIO 02
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 ---
 ### EJERCICIO 03
 --- 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
